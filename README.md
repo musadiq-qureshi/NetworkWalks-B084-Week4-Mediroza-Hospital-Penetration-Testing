@@ -1,4 +1,4 @@
-# 🔐 NetworkWalks B084 – Week 4 Cybersecurity Project
+<h1 align="center">🔐 NetworkWalks B084 – Week 4 Cybersecurity Project</h1>
 
 <h1 align="center">Mediroza Hospital</h1>
 <h3 align="center">Penetration Testing &amp; Vulnerability Assessment</h3>
@@ -18,16 +18,16 @@
 
 ## 📌 Project Overview
 
-This repository contains my Week 4 cybersecurity practical project, completed as part of the **NetworkWalks Cybersecurity Training Program – Batch B084**.
+This repository documents my Week 4 cybersecurity practical project, completed as part of the **NetworkWalks Cybersecurity Training Program – Batch B084**.
 
 The project focuses on penetration testing and vulnerability assessment of a simulated hospital environment named **Mediroza Hospital**.
 
-The work includes reconnaissance, patient portal security testing, PDF document password analysis, directory listing investigation, database backup exposure assessment, and professional report writing.
+The work covers reconnaissance, patient portal security, PDF document password analysis, directory listing investigation, database backup exposure assessment, security recommendations, and professional report writing.
 
 ## 👨‍💻 Student Information
 
 | Detail | Information |
-|---|---|
+|:---|:---|
 | Student Name | Musadiq Mehmood Qureshi |
 | Organization | NetworkWalks |
 | Batch | B084 |
@@ -36,6 +36,7 @@ The work includes reconnaissance, patient portal security testing, PDF document 
 | Environment | Kali Linux |
 | Project Type | Educational Cybersecurity Exercise |
 | Overall Risk Assessment | **Critical** |
+
 
 ## 🎯 Project Objectives
 
@@ -112,18 +113,20 @@ The work includes reconnaissance, patient portal security testing, PDF document 
 ## 🚨 Security Findings
 
 | Security Finding | Risk Level |
-|---|---|
+|:---|:---|
 | Reconnaissance Information Disclosure | Low |
 | SQL Injection and Access-Control Weaknesses | Critical |
 | Weak PDF Document Passwords | High |
 | Exposed Legacy Database Backup | Critical |
 | Missing Modern HTTP Security Headers | Low |
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/OVERALL_RISK-CRITICAL-red?style=for-the-badge" alt="Overall Risk Critical">
 </p>
 
-*Risk ratings relate only to the reported findings in this simulated training exercise.*
+<p align="left">
+  <i>Risk ratings relate only to the reported findings in this simulated training exercise.</i>
+</p>
 
 ## 📸 Project Screenshots
 
@@ -132,50 +135,50 @@ The following screenshots document the practical activities and evidence from th
 ### Figure 1 – Patient Portal
 
 <p align="center">
-  <img src="./Screenshots/01_Patient_Portal.png" alt="Figure 1 - Patient Portal" width="850">
+  <img src="./Screenshots/01_Patient_Portal..PNG" alt="Figure 1 - Patient Portal" width="850">
 </p>
 
 ### Figure 2 – Hash Calculator
 
 <p align="center">
-  <img src="./Screenshots/02_Hash_Calculator.png" alt="Figure 2 - Hash Calculator" width="850">
+  <img src="./Screenshots/02_Hash_Calculator.PNG" alt="Figure 2 - Hash Calculator" width="850">
 </p>
 
 ### Figure 3 – Password Cracker
 
 <p align="center">
-  <img src="./Screenshots/03_Password_Cracker.png" alt="Figure 3 - Password Cracker" width="850">
+  <img src="./Screenshots/03_Password_Cracker.PNG" alt="Figure 3 - Password Cracker" width="850">
 </p>
 
 ### Figure 4 – PDF Report 01
 
 <p align="center">
-  <img src="./Screenshots/04_PDF_Report_01.png" alt="Figure 4 - PDF Report 01" width="850">
+  <img src="./Screenshots/04_PDF_Report_01.PNG" alt="Figure 4 - PDF Report 01" width="850">
 </p>
 
 ### Figure 5 – PDF Report 02
 
 <p align="center">
-  <img src="./Screenshots/05_PDF_Report_02.png" alt="Figure 5 - PDF Report 02" width="850">
+  <img src="./Screenshots/05_PDF_Report_02.PNG" alt="Figure 5 - PDF Report 02" width="850">
 </p>
 
 ### Figure 6 – PDF Report 03
 
 <p align="center">
-  <img src="./Screenshots/06_PDF_Report_03.png" alt="Figure 6 - PDF Report 03" width="850">
+  <img src="./Screenshots/06_PDF_Report_03.PNG" alt="Figure 6 - PDF Report 03" width="850">
 </p>
 
 ### Figure 7 – Directory Listing and Backup File
 
 <p align="center">
-  <img src="./Screenshots/07_Directory_Listing_Backup_File.png" alt="Figure 7 - Directory Listing and Backup File" width="850">
+  <img src="./Screenshots/07_Directory_Listing_Backup_File.PNG" alt="Figure 7 - Directory Listing and Backup File" width="850">
 </p>
 
 ## 📄 Final Penetration Testing Report
 
-The complete Week 4 Mediroza Hospital penetration testing report is available here:
+The complete Week 4 Mediroza Hospital penetration testing report is available below.
 
-<p align="center">
+<p align="left">
   <a href="./Report/NetworkWalks_Week4_Final_Report.pdf">
     <img src="https://img.shields.io/badge/VIEW_FINAL_REPORT-PDF-red?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="View Final PDF Report">
   </a>
@@ -225,4 +228,5 @@ All testing activities were conducted within the designated training environment
 ---
 
 <p align="center">
-  <b
+  <b>NetworkWalks | Cybersecurity Training | Batch B084 | Week 4</b>
+</p>
